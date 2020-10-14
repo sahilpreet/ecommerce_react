@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/flashkart_react/static/css/main.b5d5dfff.chunk.css",
+    "main.js": "/flashkart_react/static/js/main.fe2e1dc4.chunk.js",
+    "main.js.map": "/flashkart_react/static/js/main.fe2e1dc4.chunk.js.map",
+    "runtime-main.js": "/flashkart_react/static/js/runtime-main.17521ad7.js",
+    "runtime-main.js.map": "/flashkart_react/static/js/runtime-main.17521ad7.js.map",
+    "static/js/2.e979a3d1.chunk.js": "/flashkart_react/static/js/2.e979a3d1.chunk.js",
+    "static/js/2.e979a3d1.chunk.js.map": "/flashkart_react/static/js/2.e979a3d1.chunk.js.map",
+    "index.html": "/flashkart_react/index.html",
+    "precache-manifest.c1294cf750fa3a820d6276fef0e55d22.js": "/flashkart_react/precache-manifest.c1294cf750fa3a820d6276fef0e55d22.js",
+    "service-worker.js": "/flashkart_react/service-worker.js",
+    "static/css/main.b5d5dfff.chunk.css.map": "/flashkart_react/static/css/main.b5d5dfff.chunk.css.map",
+    "static/js/2.e979a3d1.chunk.js.LICENSE.txt": "/flashkart_react/static/js/2.e979a3d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17521ad7.js",
+    "static/js/2.e979a3d1.chunk.js",
+    "static/css/main.b5d5dfff.chunk.css",
+    "static/js/main.fe2e1dc4.chunk.js"
+  ]
+}
