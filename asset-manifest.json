@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/flashkart_react/static/css/main.b5d5dfff.chunk.css",
-    "main.js": "/flashkart_react/static/js/main.47e4f2bb.chunk.js",
-    "main.js.map": "/flashkart_react/static/js/main.47e4f2bb.chunk.js.map",
-    "runtime-main.js": "/flashkart_react/static/js/runtime-main.17521ad7.js",
-    "runtime-main.js.map": "/flashkart_react/static/js/runtime-main.17521ad7.js.map",
-    "static/js/2.e979a3d1.chunk.js": "/flashkart_react/static/js/2.e979a3d1.chunk.js",
-    "static/js/2.e979a3d1.chunk.js.map": "/flashkart_react/static/js/2.e979a3d1.chunk.js.map",
-    "index.html": "/flashkart_react/index.html",
-    "precache-manifest.9c43407e89f8fe2a68eb47fea3aa05b6.js": "/flashkart_react/precache-manifest.9c43407e89f8fe2a68eb47fea3aa05b6.js",
-    "service-worker.js": "/flashkart_react/service-worker.js",
-    "static/css/main.b5d5dfff.chunk.css.map": "/flashkart_react/static/css/main.b5d5dfff.chunk.css.map",
-    "static/js/2.e979a3d1.chunk.js.LICENSE.txt": "/flashkart_react/static/js/2.e979a3d1.chunk.js.LICENSE.txt"
+    "main.css": "/ecommerce_react/static/css/main.b5d5dfff.chunk.css",
+    "main.js": "/ecommerce_react/static/js/main.c73be552.chunk.js",
+    "main.js.map": "/ecommerce_react/static/js/main.c73be552.chunk.js.map",
+    "runtime-main.js": "/ecommerce_react/static/js/runtime-main.453543fa.js",
+    "runtime-main.js.map": "/ecommerce_react/static/js/runtime-main.453543fa.js.map",
+    "static/js/2.e979a3d1.chunk.js": "/ecommerce_react/static/js/2.e979a3d1.chunk.js",
+    "static/js/2.e979a3d1.chunk.js.map": "/ecommerce_react/static/js/2.e979a3d1.chunk.js.map",
+    "index.html": "/ecommerce_react/index.html",
+    "precache-manifest.ce0e5ecd4688133d0cb79379fa9979e5.js": "/ecommerce_react/precache-manifest.ce0e5ecd4688133d0cb79379fa9979e5.js",
+    "service-worker.js": "/ecommerce_react/service-worker.js",
+    "static/css/main.b5d5dfff.chunk.css.map": "/ecommerce_react/static/css/main.b5d5dfff.chunk.css.map",
+    "static/js/2.e979a3d1.chunk.js.LICENSE.txt": "/ecommerce_react/static/js/2.e979a3d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.17521ad7.js",
+    "static/js/runtime-main.453543fa.js",
     "static/js/2.e979a3d1.chunk.js",
     "static/css/main.b5d5dfff.chunk.css",
-    "static/js/main.47e4f2bb.chunk.js"
+    "static/js/main.c73be552.chunk.js"
   ]
 }
