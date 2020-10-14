@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5db514641d2e758374604e1683ced1e2",
+    "revision": "8a86129b6c59ae7bfc4004cd4aeb9397",
     "url": "/flashkart_react/index.html"
   },
   {
-    "revision": "e39d8e0584c572d54130",
+    "revision": "cd721d1abee5398bb3de",
     "url": "/flashkart_react/static/css/main.b5d5dfff.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/flashkart_react/static/js/2.e979a3d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e39d8e0584c572d54130",
-    "url": "/flashkart_react/static/js/main.fe2e1dc4.chunk.js"
+    "revision": "cd721d1abee5398bb3de",
+    "url": "/flashkart_react/static/js/main.47e4f2bb.chunk.js"
   },
   {
     "revision": "6522a571acd023c7f4b5",
